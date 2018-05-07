@@ -1,0 +1,14 @@
+
+html,
+body,
+#app,
+body {
+    font-family: 'PingFang SC', "Helvetica Neue", Helvetica, "microsoft yahei", arial, STHeiTi, sans-serif;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.crumbs{
+    margin-bottom: 20px;
+}
