@@ -30,7 +30,7 @@
 # install dependencies
 npm install
 
-# 启动数据模拟服务器
+# 启动数据模拟服务器 localhost:1001/api
 npm run mock
 
 # serve with hot reload at localhost:3000
