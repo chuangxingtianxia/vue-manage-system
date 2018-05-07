@@ -3,7 +3,7 @@
 > 基于vue.js 2.0 + Element UI编写的一套简单的后台管理系统,用于以后改造现有项目IGA-v5.0
 
 ## 前言 ##
-为公司现有产品技术升级提前做前期技术积累准备1
+为公司现有产品技术升级提前做前期技术积累准备
 
 ## 技术栈
 > [vue.js](https://cn.vuejs.org/) 构建用户界面的 MVVM 框架，核心思想是：数据驱动、组件系统。
@@ -30,7 +30,7 @@
 # install dependencies
 npm install
 
-# 启动数据模拟服务器
+# 启动数据模拟服务器 localhost:1001/api
 npm run mock
 
 # serve with hot reload at localhost:3000
